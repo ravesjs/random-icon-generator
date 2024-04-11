@@ -1,5 +1,5 @@
 # Тестовое DocuSketch
-
+![Генератор](https://github.com/ravesjs/test/blob/main/image/generator.png)
 
 ## Instruction
 
