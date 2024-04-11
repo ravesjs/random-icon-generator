@@ -5,7 +5,7 @@
 
 1. Clone this repo 
     ```bash
-    git clone https://github.com/ravesjs/config-webpack-etc
+    git clone https://github.com/ravesjs/test
     ```
      
 2.  Delete old link (of this repo)

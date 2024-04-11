@@ -1,0 +1,25 @@
+.button {
+  height: 50px;
+  background-color: aliceblue;
+  padding: 10px;
+  border: 1px solid lightgreen;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  &:active {
+    transform: scale(0.92);
+  }
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.icon {
+  margin-top: 50px;
+  text-align: center;
+}
