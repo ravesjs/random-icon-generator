@@ -1,5 +1,5 @@
 # Генератор случайных иконок
-![Генератор](https://github.com/ravesjs/random-icon-generator/blob/main/image/generator.png)
+![Генератор](https://github.com/ravesjs/random-icon-generator/blob/main/image/gen.png)
 
 ## Instruction
 
