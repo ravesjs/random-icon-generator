@@ -1,11 +1,11 @@
-# Тестовое DocuSketch
-
+# Генератор случайных иконок
+![Генератор](https://github.com/ravesjs/random-icon-generator/blob/main/image/gen.png)
 
 ## Instruction
 
 1. Clone this repo 
     ```bash
-    git clone https://github.com/ravesjs/test
+    git clone https://github.com/ravesjs/random-icon-generator
     ```
      
 2.  Delete old link (of this repo)

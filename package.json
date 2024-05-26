@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "random-icon-generator",
   "version": "1.0.1",
-  "description": "test",
+  "description": "random-icon-generator",
   "main": "index.jsx",
   "author": "ravesjs",
   "license": "MIT",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ravesjs/test"
+    "url": "git@github.com:ravesjs/random-icon-generator"
   },
   "devDependencies": {
     "@babel/core": "7.23.7",
