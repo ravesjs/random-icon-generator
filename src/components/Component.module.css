@@ -1,9 +1,9 @@
 .button {
   height: 50px;
-  background-color: aliceblue;
+  background-color: red;
   padding: 10px;
-  border: 1px solid lightgreen;
-  border-radius: 5px;
+  border: 1px solid red;
+  border-radius: 7px;
   cursor: pointer;
   transition: transform 0.2s ease;
   &:active {
@@ -22,4 +22,5 @@
 .icon {
   margin-top: 50px;
   text-align: center;
+  color: blue;
 }
